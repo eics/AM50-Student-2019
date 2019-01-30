@@ -40,8 +40,6 @@ Option 2: Open the Anaconda Navigator application. You will see a panel that say
 ## Linux
 At the command line type "jupyter lab" and press enter. JupyterLab should open in a new tab in your default web browser
 
-No matter what operating system you use, you should be in your internet browser in JupyterLab. Feel free to stop here but if you would like to experiment you can try to launch a new notebook and experiment with running some basic commands. You can also download the [homework instructions]() from github or canvas and opening it in jupyter lab.
-
-
+No matter what operating system you use, you should be in your internet browser in JupyterLab. Feel free to stop here but if you would like to experiment you can try to launch a new notebook and experiment with running some basic commands. You can also download the [homework instructions](https://raw.githubusercontent.com/Hekstra-Lab/AM50-Student-2019/master/homework_instructions.ipynb) from github or canvas and opening it in jupyter lab. You might also take a look at the notebook that will be the basis of [the first section](https://raw.githubusercontent.com/Hekstra-Lab/AM50-Student-2019/master/Topic0/section0-Present.ipynb). You can also begin [Homework 0](https://raw.githubusercontent.com/Hekstra-Lab/AM50-Student-2019/master/Topic0/HW0.ipynb).
 
 
