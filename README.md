@@ -13,6 +13,8 @@ You can do this by navigating to the file then clicking on the button for the "r
 ![alt text](https://github.com/Hekstra-Lab/AM50-Student-2019/blob/master/images/download_raw.PNG?raw=true)
 
 Then file > save and make sure to save as "all files" and leave the extension as .ipynb, if theres a .txt attached it won't work.
+<img src="https://github.com/Hekstra-Lab/AM50-Student-2019/raw/master/images/save_as_type_1.PNG" width="200" height="74">
+=><img src="https://github.com/Hekstra-Lab/AM50-Student-2019/raw/master/images/save_as_type_2.PNG" width="200" height="132">
 
 
 ##### 2. Download the full folder
@@ -21,4 +23,3 @@ To download a homework or lab, click on the relevant folder above. Then click th
 ##### 3. Fork and clone this repo
 This only applies if you have a github account and are comfortable using git.
 https://help.github.com/articles/fork-a-repo/
-
